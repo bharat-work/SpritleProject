@@ -1,6 +1,6 @@
 package com.spritle.math;
 
-public class MathOperations 
+public class MathOperationsImp 
 {
 	public MathOperations() {
 		
